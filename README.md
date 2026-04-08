@@ -143,6 +143,3 @@ CNNs prove highly effective for facial emotion recognition. The model demonstrat
 - Streamlit  
 
 ---
-
-## 🌐 Deployment
-This project includes a **Streamlit-based web app** for real-time facial emotion detection, suitable for server deployment.
